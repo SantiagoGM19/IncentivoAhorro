@@ -1,0 +1,2 @@
+C:\Users\santi\Desktop\Archivos UdeM\Semestre 3\Lenguajes de programación y código limpio\TAREAS\IncentivoAhorros\IncentivoAhorros\obj\Debug\IncentivoAhorros.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Archivos UdeM\Semestre 3\Lenguajes de programación y código limpio\TAREAS\IncentivoAhorros\IncentivoAhorros\obj\Debug\IncentivoAhorros.csproj.CoreCompileInputs.cache

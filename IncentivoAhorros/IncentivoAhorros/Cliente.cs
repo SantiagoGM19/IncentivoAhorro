@@ -9,16 +9,13 @@ namespace IncentivoAhorros
     class Cliente
     {
         public int Cedula, Estrato, Meta_ahorro, Consumo_actual;
-        public Factura Factura;
 
-        public Cliente(int cedula, int estrato, int meta_ahorro, int consumo_actual, Factura factura)
+        public Cliente(int cedula, int estrato, int meta_ahorro, int consumo_actual)
         {
             Cedula = cedula;
             Estrato = estrato;
             Meta_ahorro = meta_ahorro;
             Consumo_actual = consumo_actual;
-            Factura = factura;
         }
-
     }
 }
